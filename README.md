@@ -2,7 +2,7 @@
 <h3 align="center">Leveraging Data for Better Decisions</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-- 🌱 I’m currently learning **SQL,Python,Excel**
+- 🌱 I’m currently learning **SQL,Python,Excel,Tableau**
 
 - 📫 How to reach me **harikrishna.tanna@gmail.com**
 
